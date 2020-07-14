@@ -9,7 +9,7 @@
 <strong>Hi, I'm Jairo Herrera, a passionate self-taught frontEnd web developer from Spain.</strong>
 
 - 👨‍💼👨‍💻 I’m currently working on my project [geolocation of DEAS to save lives](https://github.com/jaaiiriilloo/DEA-proteccion-civil-final)
-- 🧠 I’m currently learning PHP, Angular, React
+- 🧠 I’m currently learning PHP, Angular, React...
 
 **Languages and Tools:**🧩  
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
