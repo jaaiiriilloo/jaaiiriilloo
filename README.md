@@ -1,7 +1,7 @@
 ### Hi there, I'm [Jairo!] 👋
 
 <a href="https://es.linkedin.com/in/jairo-herrera-quintero-a6b2bb133">
-  <img align="left" alt="Jairo | Linkedin" width="20px" src="https://fatimamartinez.es/wp-content/uploads/2018/10/linkedin-logo.png" />
+  <img align="left" alt="Jairo | Linkedin" width="35px" src="https://fatimamartinez.es/wp-content/uploads/2018/10/linkedin-logo.png" />
 
   <br />
   <br />
