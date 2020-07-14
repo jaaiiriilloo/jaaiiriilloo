@@ -5,7 +5,7 @@
 
   <br />
   <br />
-Hi, Jairo Herrera, a passionate self-taught frontEnd web developer from Spain.
+Hi, I'm Jairo Herrera, a passionate self-taught frontEnd web developer from Spain.
 
 - 👨‍💼👨‍💻 I’m currently working on my project [geolocation of DEAS to save lives](https://github.com/jaaiiriilloo/DEA-proteccion-civil-final)
 - 🧠 I’m currently learning PHP, Angular, React
