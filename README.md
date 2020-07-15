@@ -30,7 +30,7 @@
 
 <code><img height="40" src="https://thumbs.gfycat.com/SourLittleBaboon-max-1mb.gif"></code>
 
-![VISITORS](https://visitor-badge.glitch.me/badge?page_id=jaaiiriillo.jaaiiriilloo)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jaaiiriillo.jaaiiriilloo)
 
 <code><img height="40" src="https://49.media.tumblr.com/2da7ae3c61f433b574ed19c8d751efcb/tumblr_mrhvovjnvc1sfxcgoo1_400.gif">
 </code>
