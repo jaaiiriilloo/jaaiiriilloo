@@ -29,7 +29,7 @@
 ![](https://i.imgur.com/IeItZwr.jpg)
 
 <code><img height="40" src="https://thumbs.gfycat.com/SourLittleBaboon-max-1mb.gif"></code>
-![VISITORS](https://visitor-badge.glitch.me/badge?page_id=jaaiiriillo.jaaiiriilloo)<code><img height="40" src="https://media1.tenor.com/images/a5a8caffe638a7d7e3ed3b7c323bebcd/tenor.gif?itemid=15368822"></code>
+![VISITORS](https://visitor-badge.glitch.me/badge?page_id=jaaiiriillo.jaaiiriilloo)<code><img height="40" src="https://media.tenor.com/images/9ab30011741152a9caed541d11f7922e/tenor.gif"></code>
 
 
 ![Jairo github stats](https://github-readme-stats.vercel.app/api?username=jaaiiriilloo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
