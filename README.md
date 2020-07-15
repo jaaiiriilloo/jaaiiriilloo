@@ -1,12 +1,12 @@
 ### 🙋‍♂Hi there, I'm Jairo Herrera 🖐
           
 
-<code><img height="60" width="150" src="https://3.bp.blogspot.com/-rPjG7c1L-cU/USCglVQ4IzI/AAAAAAAAGTs/Yes48yUYpQ8/s200/Nombre-animado-Jairo-09.gif"></code>
+
 
 <a href="https://es.linkedin.com/in/jairo-herrera-quintero-a6b2bb133">
   <img align="left" alt="Jairo | Linkedin" width="50px" src="https://fatimamartinez.es/wp-content/uploads/2018/10/linkedin-logo.png" />
   </a>
-
+<code><img height="230" width="950" src="https://3.bp.blogspot.com/-rPjG7c1L-cU/USCglVQ4IzI/AAAAAAAAGTs/Yes48yUYpQ8/s200/Nombre-animado-Jairo-09.gif"></code>
   <br />
   <br />
 <strong>Hi, I'm Jairo Herrera, a passionate self-taught 🔓cybersecurity and frontEnd web developer from Spain.<code><img height="8" src="https://img2.freepng.es/20180330/zye/kisspng-flag-of-spain-desktop-wallpaper-flag-of-canada-france-flag-5abde3f495a1c6.5502139715223941006129.jpg"></code>
