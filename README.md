@@ -1,4 +1,4 @@
-### Hi there, I'm [Jairo!] 👋
+### 🙋‍♂Hi there, I'm Jairo Herrera 🖐
 
 <a href="https://es.linkedin.com/in/jairo-herrera-quintero-a6b2bb133">
   <img align="left" alt="Jairo | Linkedin" width="50px" src="https://fatimamartinez.es/wp-content/uploads/2018/10/linkedin-logo.png" />
@@ -6,10 +6,10 @@
 
   <br />
   <br />
-<strong>Hi, I'm Jairo Herrera, a passionate self-taught frontEnd web developer from Spain.</strong>
+<strong>Hi, I'm Jairo Herrera, a passionate self-taught 🔓cybersecurity and frontEnd web developer from Spain.🇪🇸</strong>
 
 - 👨‍💼👨‍💻 I’m currently working on my project [geolocation of DEAS to save lives](https://github.com/jaaiiriilloo/DEA-proteccion-civil-final)
-- 🧠 I’m currently learning PHP, Angular, React...
+- 🧠⏳ I’m currently learning PHP, Angular, React...
 
 **Languages and Tools:**🧩  
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
