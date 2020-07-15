@@ -2,7 +2,7 @@
           
 
 <code>
-<a href="https://es.linkedin.com/in/jairo-herrera-quintero-a6b2bb133">
+<a href="https://wa.me/616021380?text=Hola!%20JairoHerrera">
   <img align="left" alt="Jairo | Linkedin" width="50px" src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </code>
