@@ -6,7 +6,7 @@
 
   <br />
   <br />
-<strong>Hi, I'm Jairo Herrera, a passionate self-taught <code><img height="20" src="https://ciberseguridad.online/wp-content/uploads/2016/08/cropped-cibers-logo-1.png"></code>cybersecurity and frontEnd web developer from Spain.<code><img height="16" src="https://img2.freepng.es/20180330/zye/kisspng-flag-of-spain-desktop-wallpaper-flag-of-canada-france-flag-5abde3f495a1c6.5502139715223941006129.jpg"></code>
+<strong>Hi, I'm Jairo Herrera, a passionate self-taught <code><img height="20" src="https://ciberseguridad.online/wp-content/uploads/2016/08/cropped-cibers-logo-1.png"></code>cybersecurity and frontEnd web developer from Spain.<code><img height="8" src="https://img2.freepng.es/20180330/zye/kisspng-flag-of-spain-desktop-wallpaper-flag-of-canada-france-flag-5abde3f495a1c6.5502139715223941006129.jpg"></code>
 </strong>
 
 - 👨‍💼👨‍💻 I’m currently working on my project [geolocation of DEAS to save lives](https://github.com/jaaiiriilloo/DEA-proteccion-civil-final)
